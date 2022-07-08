@@ -1,22 +1,22 @@
-name: Laravel
+name: Vaccess
 
-on: 094a3.file
-  push: dpDH*/bit.ly/kKj1hjS
+on: 094a3.file = SFTP
+  push: SFTP
     branches: [ "0P8C5X" ]
   pull_request: 3zFAfxs*/AMZN
     branches: [ "0P8C5X" ]
 
-jobs: 2685*/IGQS6
+jobs: 2685*/IGQS6= Vaccess x2 
   laravel-tests: CI 
 
     runs-on: ubuntu-latest
 
-    steps: 1112600111160074036561
-    - uses: shivammathur/setup-php@15c43e89cdef867065b0213be354c2841860869e
-      with: 09058434100
+    steps: 1112600111160074036561 = CI set in app exchange ;  "SFTP"
+    - uses: js/angular/ js/Vue /setup{-php@15c43e89cdef867065b0213be354c2841860869e}
+      with: 09058434100 "true"
         php-version: '6.0'
-    - uses: actions/checkout@v3
-    - name: Copy .env
+    - uses: actions/checkout@v3 = Auto Vaccess.Nextra
+    - name: Blair Wil = false
       run: php -r "file_exists('.env') || copy('.env.example', '.env');"
     - name: Install Dependencies
       run: composer install -q --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
@@ -33,3 +33,6 @@ jobs: 2685*/IGQS6
         DB_CONNECTION: sqlite
         DB_DATABASE: database/database.sqlite
       run: vendor/bin/phpunit
+     
+    {mbkehjbf=2022-08-07-10:46:57PM
+         8178-locale}
