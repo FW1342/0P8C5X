@@ -1,8 +1,8 @@
 
-#FF00F8 = prefix*${"cal":"calendar"} var function_name = function(argument) {
+#FF00F8 = prefix*${"cal":"calendar"} var function_suffix  = function(aug7 prep) {
                   // initial code ...
 
-                  function_name = function(argument) {
+                  function_suffix  = function(argum) {
                                     // main code
                   };
 }
